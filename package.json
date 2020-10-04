@@ -21,14 +21,14 @@
     "url": "git://github.com/ssbeefeater/x-ray-chrome.git"
   },
   "dependencies": {
-    "puppeteer": "^1.6.1"
+    "puppeteer": "^5.3.1"
   },
   "devDependencies": {
     "@types/http-context": "^1.1.0",
     "@types/jest": "^23.3.1",
     "@types/lodash": "^4.14.115",
     "@types/node": "^10.5.2",
-    "@types/puppeteer": "^1.5.1",
+    "@types/puppeteer": "^5.3.1",
     "@types/x-ray": "^2.3.2",
     "concurrently": "^3.6.0",
     "esnext": "^3.3.1",
